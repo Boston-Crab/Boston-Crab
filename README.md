@@ -16,15 +16,15 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
 
 -> Down below you'll find few images and links to youtube videos for those games.
 
-1. Pygame Tic Tac Toe:
+**1. Pygame Tic Tac Toe:**
    
    First I've created a text based just with python and naturally after that the next step,
    was to do a Pygame conversion. :wink:
 
-    Youtube link:
+   Youtube link:
        https://youtu.be/TRUueszxZFo?si=V-YdwMK5sTkshDPJ
 
-2. Pygame AutoPlayRPG:
+**2. Pygame AutoPlayRPG:**
 
    This is the project that I am the most proud of, as it was fully my brain child.
    Through the process of making it, I understood a lot about writting cleaner code,
@@ -34,7 +34,7 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
    The game is quite simplistic in a way. There some menus that you can access, some
    automatic fighting scenes and a dungeon crawling system.
 
-     Youtube link:
+   Youtube link:
        https://youtu.be/Pcxl-vHrre8?si=jyYthsc1vL5wqJnH
 
 ___
