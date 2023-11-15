@@ -39,7 +39,7 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
 
 ___
 <details>
-<summary>>>> CLICK HERE For Some Images From The Game <<<</summary>
+<summary>>>> CLICK HERE For Some Images From The RPG Game <<<</summary>
    <img src="https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/0.png"
      alt="Avatar"
      style="float: left; margin-right: 5px;"
