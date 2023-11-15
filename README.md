@@ -12,10 +12,10 @@ ___
 #### > Some Projects I've Done :nerd_face: <
 
 
-During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPG games.
+During my self-taught Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPG games.
 
 -> Down below you'll find few images and links to youtube videos for those games.
-
+___
 **1. Pygame Tic Tac Toe:**
    
    First I've created a text based just with python and naturally after that the next step,
@@ -23,7 +23,7 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
 
    Youtube link:
        https://youtu.be/TRUueszxZFo?si=V-YdwMK5sTkshDPJ
-
+___
 **2. Pygame AutoPlayRPG:**
 
    This is the project that I am the most proud of, as it was fully my brain child.
