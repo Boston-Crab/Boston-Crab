@@ -15,7 +15,7 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
 
 1. Pygame Tic Tac Toe:
    
-   First I created it text based just with python and naturally after that the next step,
+   First I've created a text based just with python and naturally after that the next step,
    was to do a Pygame conversion. :wink:
 
     Youtube link:
