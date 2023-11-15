@@ -35,12 +35,30 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
      Youtube link:
        https://youtu.be/Pcxl-vHrre8?si=jyYthsc1vL5wqJnH
 
-     Some images:
-       
-   ![town menu](https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/0.png)
-   ![character menu](https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/1.png)
-   ![dungeon crawling](https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/2.png)
-   ![fight scene](https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/4.png)
+
+<details>
+<summary>Some Images</summary>
+   <img src="https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/0.png"
+     alt="Avatar"
+     style="float: left; margin-right: 5px;"
+   width="200"
+   height="400"/>
+   <img src="https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/1.png"
+     alt="Avatar"
+     style="float: left; margin-right: 5px;"
+   width="200"
+   height="400"/>
+   <img src="https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/2.png"
+     alt="Avatar"
+     style="float: left; margin-right: 5px;"
+   width="200"
+   height="400"/>
+   <img src="https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/4.png"
+     alt="Avatar"
+     style="float: left; margin-right: 5px;"
+   width="200"
+   height="400"/>
+</details>
 <!--
 **Boston-Crab/Boston-Crab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
