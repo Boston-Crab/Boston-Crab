@@ -7,6 +7,7 @@
 Besides programming, I love all kinds of strength and agility sports, wild travel and..
 GOOD FOOOOD! :hand_over_mouth:
 
+
 #### Some Projects I've Done :nerd_face:
 
 During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPg games.
