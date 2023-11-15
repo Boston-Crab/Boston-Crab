@@ -2,13 +2,15 @@
 
 ### My name is Matas and I'm chassing my dream to become a cowb.. PROGRAMMER!
 #### Yeehaw!
-
+___
 #### > A Bit About Me :disguised_face: <
+
 Besides programming, I love all kinds of strength and agility sports, wild travel and..
 GOOD FOOOOD! :hand_over_mouth:
 
-
+___
 #### > Some Projects I've Done :nerd_face: <
+
 
 During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPG games.
 
@@ -35,7 +37,7 @@ During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlay
      Youtube link:
        https://youtu.be/Pcxl-vHrre8?si=jyYthsc1vL5wqJnH
 
-
+___
 <details>
 <summary>>>> CLICK HERE For Some Images From The Game <<<</summary>
    <img src="https://github.com/Boston-Crab/Boston-Crab/blob/main/assets/imgs/0.png"
