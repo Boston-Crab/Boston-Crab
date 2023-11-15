@@ -3,12 +3,12 @@
 ### My name is Matas and I'm chassing my dream to become a cowb.. PROGRAMMER!
 #### Yeehaw!
 
-#### A bit about me :disguised_face:
+#### > A Bit About Me :disguised_face: <
 Besides programming, I love all kinds of strength and agility sports, wild travel and..
 GOOD FOOOOD! :hand_over_mouth:
 
 
-#### Some Projects I've Done :nerd_face:
+#### > Some Projects I've Done :nerd_face: <
 
 During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPg games.
 
