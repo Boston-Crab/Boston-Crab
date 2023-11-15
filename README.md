@@ -10,7 +10,7 @@ GOOD FOOOOD! :hand_over_mouth:
 
 #### > Some Projects I've Done :nerd_face: <
 
-During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPg games.
+During my self-taugh Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPG games.
 
 -> Down below you'll find few images and links to youtube videos for those games.
 
