@@ -12,13 +12,13 @@ ___
 #### > Some Projects I've Done :nerd_face: <
 
 
-During my self-taught Python days, I've made a Pygame Tic Tac Toe and an AutoPlayRPG games.
+During my self-taught Python days, I've made a Pygame Tic Tac Toe and a AutoPlayRPG games.
 
 -> Down below you'll find few images and links to youtube videos for those games.
 ___
 **1. Pygame Tic Tac Toe:**
    
-   First I've created a text based just with python and naturally after that the next step,
+   First I've created a text based version just with Python and naturally after that the next step
    was to do a Pygame conversion. :wink:
 
    Youtube link:
@@ -28,7 +28,7 @@ ___
 ___
 **2. Pygame AutoPlayRPG:**
 
-   This is the project that I am the most proud of, as it was fully my brain child.
+   This is the project that I am the most proud of, as it was fully my brain-child.
    Through the process of making it, I understood a lot about writting cleaner code,
    the idea of refactoring, or in other words writing code in such a way that you would
    not need to refactor, and in general learned to learn.
