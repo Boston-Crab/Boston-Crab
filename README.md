@@ -1,6 +1,6 @@
 # Howdy, partner! :cowboy_hat_face:
 
-### My name is Matas and I'm chassing my dream to become a cowb.. PROGRAMMER!
+### My name is Matas and I'm chassing my goal of becoming a cowb.. PROGRAMMER!
 #### Yeehaw!
 ___
 #### > A Bit About Me :disguised_face: <
@@ -39,6 +39,12 @@ ___
 
    Youtube link:
        https://youtu.be/Pcxl-vHrre8?si=jyYthsc1vL5wqJnH
+   Repository link:
+      https://github.com/Boston-Crab/AutoPlayRPG
+
+#### > Contact Me 💬 <
+
+matas.sabaliauskas@dci-student.org
 
 ___
 <details>
