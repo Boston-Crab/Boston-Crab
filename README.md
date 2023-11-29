@@ -5,7 +5,7 @@
 ___
 #### > A Bit About Me :disguised_face: <
 
-Besides programming, I love all kinds of strength and agility sports, wild travel and..
+Besides programming, I love all kinds of strength and agility sports, wilderness travel and..
 GOOD FOOOOD! :hand_over_mouth:
 
 ___
