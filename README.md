@@ -5,7 +5,7 @@
 ___
 #### > A Bit About Me :disguised_face: <
 
-Besides programming, I love all kinds of strength and agility sports, wilderness travel and..
+Besides programming, I enjoy workingout to keep my body healthy, travel and.. EATING
 GOOD FOOOOD! :hand_over_mouth:
 
 ___
