@@ -44,7 +44,7 @@ ___
 
 #### > Contact Me 💬 <
 
-matas.sabaliauskas@dci-student.org
+matassabaliauskas1@gmail.com
 
 ___
 <details>
