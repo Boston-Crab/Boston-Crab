@@ -5,7 +5,7 @@
 ___
 #### > A Bit About Me :disguised_face: <
 
-Besides programming, I enjoy workingout to keep my body healthy, travel and.. EATING
+Besides programming, I enjoy workingout to keep my body healthy, travel, gaming and.. EATING
 GOOD FOOOOD! :hand_over_mouth:
 
 ___
