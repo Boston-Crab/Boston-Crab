@@ -24,7 +24,7 @@ GOOD FOOOOD! :hand_over_mouth:
 
 #### > Contact Me 💬 <
 
-matassabaliauskas1@gmail.com
+matas.contact@gmail.com
 
 <!--
 ___
