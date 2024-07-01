@@ -22,6 +22,7 @@ GOOD FOOOOD! :hand_over_mouth:</p>
 
 <h2 align="center">Contact Me</h2>
 <div align="center">matas.contact@gmail.com</div>
+<div align="center">www.linkedin.com/in/matas-sab</div>
 
 <!--
 ___
