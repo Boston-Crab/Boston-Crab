@@ -1,5 +1,5 @@
 <h2 align="center">---> Currently Looking For Work <---</h2>
-<h2 align="center">My Skills</h2>
+<h2 align="center">My Main Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
