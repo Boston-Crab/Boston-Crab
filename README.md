@@ -1,4 +1,3 @@
-<h2 align="center">---> Currently Looking For Work <---</h2>
 <h2 align="center">My Main Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
