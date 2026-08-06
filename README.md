@@ -17,7 +17,7 @@
 
 <h2 align="center">A Bit About Me 🥸</h2>
 <p align="center">Besides programming, I enjoy workingout to keep my body healthy, travel, gaming and.. EATING
-GOOD FOOOOD! :hand_over_mouth:</p>
+GOOD FOOOOD!</p>
 
 <h2 align="center">Contact Me</h2>
 <div align="center">matas.contact@gmail.com</div>
